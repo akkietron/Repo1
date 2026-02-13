@@ -1,2 +1,4 @@
 # Repo1
-First Git repo
+Welcome to my first published repo.
+<br>
+Author: Akkietron
